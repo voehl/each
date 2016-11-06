@@ -3,6 +3,7 @@
 	"description": "each",
 	"repository": "voehl/each",
 	"private": true,
+	"version": "1.0.0",
 	"author": {
 		"name": "Niklas Vöhl"
 	},
